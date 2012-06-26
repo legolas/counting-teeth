@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="chainRings">Kettingwielen (39,52)</string>
+    <string name="app_name">Tanden Tellen</string>
+    <string name="sprocket">Kransjes (12,13,14,..)</string>
+    <string name="circumference">Omtrek (mm)</string>
+
+</resources>
