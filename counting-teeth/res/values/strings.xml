@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, CountingTeethActivity!</string>
+    <string name="chainRings">Chainrings (39,52)</string>
     <string name="app_name">Counting Teeth</string>
+    <string name="sprocket">Sprocket (12,13,14,..)</string>
+    <string name="circumference">Circumference (mm)</string>
 
 </resources>
